@@ -1,4 +1,6 @@
 # OrbitalMechanics - 2 Sun orbiting bodies calculator
+[![EXAMPLE 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KQyFUAqPE5UJtbTiM_o2FjUsTC-nyhoc?usp=sharing)
+
 The objective is to prepare an orbital calculator capable to calculate relative distance and velocity between two heliocentric bodies at a given time. Use of MS Excel or Matlab is preferred, but not strictly required.
 
 User will select two heliocentric bodies and will enter their orbital elements into the calculator. Then (s)he will specify the requested time moment. The calculator shall return the distance between the bodies and their relative velocity.
