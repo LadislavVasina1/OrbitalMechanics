@@ -17,6 +17,7 @@ Argument of perihelion: omega=114.20783°
 
 Time of perihelion passage: T0=2451547.5191
 
+LV2021 (https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2021%20LV) (https://www.spacereference.org/asteroid/2021-lv) asteroid is chosen as default 2nd body.
 
 
 
